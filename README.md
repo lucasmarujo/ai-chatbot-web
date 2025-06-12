@@ -55,7 +55,7 @@ Pronto! Agora você pode começar a conversar com o assistente de IA.
 ## 🧑‍💻 Autor
 
 - **Lucas Marujo**
-- [LinkedIn](https://www.linkedin.com/in/lucasmarujo/)
+- [LinkedIn](https://www.linkedin.com/in/lucas-marujo-amadeu-5322a7219/)
 
 ---
 
